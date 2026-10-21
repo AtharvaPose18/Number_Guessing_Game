@@ -1,7 +1,5 @@
 #Number Guessing Game
 My second Java project.
-
-##Description
 A simple game in which the computer generates a random number between 1 and 100, and the player tries to guess it.
 
 ##Features
@@ -18,4 +16,5 @@ A simple game in which the computer generates a random number between 1 and 100,
 - If-else statements
 
 ##How to Run
-Compile using javac Number_Guesser.java and run using java Number_Guesser
+Compile using javac Number_Guesser.java and 
+run using java Number_Guesser
